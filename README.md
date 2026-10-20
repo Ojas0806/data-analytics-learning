@@ -21,3 +21,17 @@ A long-term learning repository documenting practical progress in Python, Pandas
 The first stage focuses on Python basics, CSV handling, Pandas, filtering, sorting, statistics, grouping, missing values, and basic data cleaning.
 
 The repository will grow gradually as new skills are learned.
+
+## Project Structure
+
+```text
+data-analytics-learning/
+├── 01-python-basics/
+│   ├── README.md
+│   └── day01_python_basics.py
+├── 02-python-lists/
+│   ├── README.md
+│   └── day02_lists.py
+├── .gitignore
+└── README.md
+```
